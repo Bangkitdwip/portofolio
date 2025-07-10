@@ -19,4 +19,4 @@ setiap proyek ada link menuju repository code dan demo menggunakan streamlit
 
 ---
 
-💼 [LinkedIn](www.linkedin.com/in/bangkit-dwiputra) | 📫 Email: bangkitdwip13@gmail.com
+💼 [LinkedIn](https:/www.linkedin.com/in/bangkit-dwiputra) | 📫 Email: bangkitdwip13@gmail.com
