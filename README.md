@@ -1,29 +1,22 @@
 # 👋 Welcome to My Data Portfolio
 
-Hi, I'm Zach. Below are some of my key projects in data science and analytics.  
-Each project includes GitHub code and a live demo via Streamlit.
+halo, saya Bangkit. Dibawah ini adalah proyek saya tentang data science dan analyst.
+setiap proyek ada link menuju repository code dan demo menggunakan streamlit
 
 ---
 
-## 📦 Delivery Time Prediction
-- 📄 [GitHub Repo](https://github.com/zach/delivery-predict)
-- 🚀 [Streamlit App](https://deliverypredict.streamlit.app)
-- 🔍 Description: Predicts delivery time using vehicle type, distance, and traffic condition.
+## 📦 A/B Testing Penjualan kopi
+- 📄 [GitHub Repo][(https://github.com/zach/delivery-predict)](https://github.com/Bangkitdwip/AB_Testing.git)
+- 🚀 [Streamlit App](https://bangkit-dwiputra-portofolio.streamlit.app/)
+- 🔍 Description: Mengevaluasi efektivitas dua strategi promosi (Grup A dan B) terhadap penjualan produk di sebuah supermarket.
 
 ---
 
 ## 🛒 Walmart Sales Forecasting
-- 📄 [GitHub Repo]([https://github.com/zach/walmart-forecast)](https://github.com/Bangkitdwip/wallmart-forecast.git)
-- 🚀 [Streamlit App]([https://walmartforecast.streamlit.app](https://wallmart-forecast-wmjtf4m6sp66pxfh7tovu5.streamlit.app/))
-- 🔍 Description: Forecast future sales for Walmart using historical data and machine learning models.
+- 📄 [GitHub Repo]](https://github.com/Bangkitdwip/wallmart-forecast.git)
+- 🚀 [Streamlit App](https://wallmart-forecast-wmjtf4m6sp66pxfh7tovu5.streamlit.app/)
+- 🔍 Description: Prediksi penjualan Walmart menggunakan data penjualan dan model machine learning.
 
 ---
 
-## 📊 Customer Segmentation Dashboard
-- 📄 [GitHub Repo](https://github.com/zach/customer-segment)
-- 📊 [Power BI Dashboard](https://app.powerbi.com/...yourlink)
-- 🔍 Description: Segments customers using RFM analysis and visualizes behavior patterns.
-
----
-
-💼 [LinkedIn](https://www.linkedin.com/in/zach) | 📫 Email: zach@email.com
+💼 [LinkedIn](www.linkedin.com/in/bangkit-dwiputra) | 📫 Email: bangkitdwip13@gmail.com
