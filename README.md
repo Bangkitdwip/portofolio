@@ -14,7 +14,7 @@ setiap proyek ada link menuju repository code dan demo menggunakan streamlit
 
 ## 🛒 Walmart Sales Forecasting
 - 📄 [GitHub Repo](https://github.com/Bangkitdwip/wallmart-forecast.git)
-- 🚀 [Streamlit App](https://wallmart-forecast-wmjtf4m6sp66pxfh7tovu5.streamlit.app/)
+- 🚀 [Streamlit App](https://wallmart-forecast-ctvbcbkd39unnqibdbaqvb.streamlit.app/)
 - 🔍 Description: Prediksi penjualan Walmart menggunakan data penjualan dan model machine learning.
 
 ---
