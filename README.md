@@ -6,7 +6,7 @@ setiap proyek ada link menuju repository code dan demo menggunakan streamlit
 ---
 
 ## 📦 A/B Testing Penjualan kopi
-- 📄 [GitHub Repo](https://github.com/zach/delivery-predict)](https://github.com/Bangkitdwip/AB_Testing.git)
+- 📄 [GitHub Repo](https://github.com/Bangkitdwip/AB_Testing.git)
 - 🚀 [Streamlit App](https://bangkit-dwiputra-portofolio.streamlit.app/)
 - 🔍 Description: Mengevaluasi efektivitas dua strategi promosi (Grup A dan B) terhadap penjualan produk di sebuah supermarket.
 
