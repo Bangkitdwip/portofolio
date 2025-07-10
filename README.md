@@ -13,8 +13,8 @@ Each project includes GitHub code and a live demo via Streamlit.
 ---
 
 ## 🛒 Walmart Sales Forecasting
-- 📄 [GitHub Repo](https://github.com/zach/walmart-forecast)
-- 🚀 [Streamlit App](https://walmartforecast.streamlit.app)
+- 📄 [GitHub Repo]([https://github.com/zach/walmart-forecast)](https://github.com/Bangkitdwip/wallmart-forecast.git)
+- 🚀 [Streamlit App]([https://walmartforecast.streamlit.app](https://wallmart-forecast-wmjtf4m6sp66pxfh7tovu5.streamlit.app/))
 - 🔍 Description: Forecast future sales for Walmart using historical data and machine learning models.
 
 ---
